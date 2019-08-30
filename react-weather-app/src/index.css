@@ -1,0 +1,15 @@
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+.remove_btn {
+  background: palevioletred;
+  color: white;
+  padding: 10px 20px;
+  border: 2px solid palevioletred;
+  border-radius: 3px;
+}
